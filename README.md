@@ -1,3 +1,4 @@
 # odin-recipes
-Set up your README.md file and write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
-
+The project is the first of many in The Odin Project, specifically the making of a page listing three recipes.
+I practiced the use of git and html basics, it was joyful.
+<a href="../odin-recipes/indexOR.html"/>Recipes</a>
